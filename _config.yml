@@ -1,6 +1,13 @@
 name: AvaReilly
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/edbcccdb-7a66-4c13-95ee-c1030dbb4b86.gif
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14adfcc7-7d96-4587-a6bf-73de3cb04c5d.gif
 layout_spectrum: 0.22903805202804506
 typography_spectrum: 0.6752310991287231
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#FFFFFF'
@@ -24,6 +31,8 @@ description: Growing up in the World!!
 author:
   name: Keith Reilly
   email: Keith@KeithReilly.com
+content_rating:
+  adult: false
 navigation:
   - name: Time with my Dad
     id: 73ea2e09-782f-4647-977f-a2eac248c022
